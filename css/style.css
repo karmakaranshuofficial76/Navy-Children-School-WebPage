@@ -1,0 +1,14 @@
+
+.form
+{
+     width: 300px;
+     margin: 0 auto;
+}
+
+.error p 
+{
+     color:#FF0000;
+     font-size:20px;
+     font-weight:bold;
+     margin:50px;
+}

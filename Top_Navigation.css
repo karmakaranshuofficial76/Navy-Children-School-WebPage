@@ -1,0 +1,81 @@
+c
+{
+    color: floralwhite;
+    text-decoration: none;
+}
+c:default
+{
+    color: floralwhite;
+    text-decoration: none;
+}
+c:link
+{
+    color: floralwhite;
+    text-decoration: none;
+}
+c:visited
+{
+    color: deepskyblue;
+    text-decoration: none;
+}
+c:hover
+{
+    color: coral;
+    text-decoration: none;
+}
+.center-block
+{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+c1
+{
+    color: floralwhite;
+    text-decoration: none;
+}
+c1:default
+{
+    color: floralwhite;
+    text-decoration: none;
+}
+c1:link
+{
+    color: floralwhite;
+    text-decoration: none;
+}
+c1:visited
+{
+    color: deepskyblue;
+    text-decoration: none;
+}
+c1:hover
+{
+    color: darkturquoise;
+    text-decoration: none;
+}
+c2
+{
+    color: crimson;
+    text-decoration: none;
+}
+c2:default
+{
+    color: crimson;
+    text-decoration: none;
+}
+c2:link
+{
+    color: crimson;
+    text-decoration: none;
+}
+c2:visited
+{
+    color: crimson;
+    text-decoration: none;
+}
+c2:hover
+{
+    color: crimson;
+    text-decoration: none;
+}
